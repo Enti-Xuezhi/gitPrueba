@@ -1,6 +1,14 @@
 #include <cstdio>
 
-int sumaNum(int a, int b) 
+int sumaNum(int a, int b)
 {
 	return a + b;
+
 }
+
+int mulNum(int a, int b) 
+{
+
+	return a*b;
+
+}	
