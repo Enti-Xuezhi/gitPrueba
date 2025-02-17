@@ -12,3 +12,7 @@ int mulNum(int a, int b)
 	return a*b;
 
 }	
+
+int restaNum(int a, int b) {
+	return a - b;
+}
